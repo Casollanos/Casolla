@@ -1,16 +1,1 @@
-{
-  "name": "CASOLLA · Comida casera",
-  "short_name": "CASOLLA",
-  "start_url": ".",
-  "display": "standalone",
-  "background_color": "#fff7e9",
-  "theme_color": "#922719",
-  "icons": [
-    {
-      "src": "assets/logo-casolla.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
-    }
-  ]
-}
+{"name":"CASOLLA · Comida casera","short_name":"CASOLLA","start_url":"./","display":"standalone","background_color":"#fff8ed","theme_color":"#a62d21","icons":[{"src":"casolla-logo.png","sizes":"any","type":"image/png","purpose":"any maskable"}]}
